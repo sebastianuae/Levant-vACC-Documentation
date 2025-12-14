@@ -10,7 +10,6 @@
 | Prepared by         | Sebastian Delcroix - ACCLEV3                     |
 | Approved by         | Jordan Townsend - ACCLEV1                        |
 | Next review date    | 08 MAR 2026                                      |
-| Cancelled documents | Levant vACC ATS Policy for Home/Visiting Members |
 
 ## Purpose & Scope
 
