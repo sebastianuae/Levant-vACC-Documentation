@@ -7,7 +7,7 @@ The transfer prcoedures must be adhered to at all times. Due to the unreliable r
 Any deviation from these procedures shall require strategic coordination between all concerned controllers. 
 
 !!! warning
-    Any deviation from these procedures **without** coordination is very haram. If you do it consistently then be assured that Sebastian will hunt you down.
+     Any deviation from these procedures **without** coordination is very haram. If you do it consistently then be assured that Sebastian will hunt you down.
 
 ## Transfers from Center (CTR) to Radar (APP)
 

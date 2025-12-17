@@ -131,8 +131,9 @@ nav:
     - Overview: Training documents/index.md
     - Classes of Airspace: Training documents/Classes of Airspace.md
   - vACC policies: 
-    - ATS Policy: vACC policies/ATS Policy/ATS Policy.md
-    - ATS Training Policy: vACC policies/ATS Policy/ATS Training Policy.md
+    - ATC Training Policy: vACC policies/ATS Policy/ATC Training Policy.md
+    - S1 Training Syllabus: vACC policies/ATS Policy/S1 Training Syllabus.md
+    - S2 Training Syllabus: vACC policies/ATS Policy/S2 Training Syllabus.md
 
 
 
